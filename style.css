@@ -1,0 +1,30 @@
+.center {
+    text-align: center;
+}
+.center-i {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+}
+
+.brown {
+    color: brown;
+}
+
+.orange {
+    color: orange;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
