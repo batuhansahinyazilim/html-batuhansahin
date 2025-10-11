@@ -12,10 +12,12 @@ body {
 
 .brown {
     color: brown;
+    background-color: rgb(49, 49, 49);
 }
 
 .orange {
     color: orange;
+    background-color: rgb(49, 49, 49);
 }
 
 p {
